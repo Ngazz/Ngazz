@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ngazz
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning frontend web programing 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on frontend web programing
 - 📫 How to reach me @the_ngazz on twitter or ngahujose2000@gmail.com
 
 <!---
